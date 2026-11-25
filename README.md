@@ -1,9 +1,5 @@
 # Python Project Template (`uv` + Ruff + Pyrefly)
 
-[![CI (Ruff & Pyrefly)](https://github.com)](https://github.com)
-[![Ruff](https://shields.io)](https://github.com)
-[![uv](https://shields.io)](https://github.com)
-
 Modern Python project template pre-configured with **`uv`** for dependency management, **Ruff** for linting and formatting, **Pyrefly** for static type checking, **`pre-commit`** hooks, and **GitHub Actions** CI.
 
 ## Features
